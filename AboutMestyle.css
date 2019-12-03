@@ -1,5 +1,5 @@
 body {
- background-image: "myBackground.jpg";
+ background-image:("myBackground.jpg");
 }
 
 #nav-table {width:800px;}
