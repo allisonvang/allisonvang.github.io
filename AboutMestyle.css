@@ -1,5 +1,7 @@
-<div style="background-image: url(myBackground.jpg);">
-</div>
+body {
+ background-image: img src("myBackground.jpg");
+ background-color: #CCCCCCCC;
+}
 
 #nav-table {width:800px;}
 #nav-id {width:200px; text-align:center;}
